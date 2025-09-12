@@ -641,6 +641,11 @@ footer{
 
 
 @media (max-width:900px) {
+
+    .speedUP{
+        right: 5px;
+        padding:10px
+    }
     .contactMe{
         width: 350px;
         
@@ -756,7 +761,7 @@ footer{
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 0px 30px;
+        padding: 0px 10px;
         position: fixed;
         width: 100%;
         box-sizing: border-box;
